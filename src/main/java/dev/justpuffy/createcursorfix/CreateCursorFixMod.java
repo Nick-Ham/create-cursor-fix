@@ -1,4 +1,4 @@
-package com.justpuffydev.createcursorfix;
+package dev.justpuffy.createcursorfix;
 
 import net.neoforged.fml.common.Mod;
 

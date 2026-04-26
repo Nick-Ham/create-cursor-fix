@@ -1,4 +1,4 @@
-package com.justpuffydev.createcursorfix.mixin;
+package dev.justpuffy.createcursorfix.mixin;
 
 import com.mojang.blaze3d.platform.Window;
 import java.nio.DoubleBuffer;
