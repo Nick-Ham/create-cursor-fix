@@ -1,0 +1,37 @@
+# Gradle
+/.gradle/
+/build/
+
+# Minecraft dev runtime
+/run/
+/runs/
+/run-data/
+
+# IDEs
+/.idea/
+/.vscode/
+/.settings/
+/.metadata/
+*.iml
+*.ipr
+*.iws
+*.launch
+.classpath
+.project
+/bin/
+/out/
+/eclipse/
+
+# Local artifacts
+/repo/
+/libs/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Local Helpers
+run.sh
+build.sh
