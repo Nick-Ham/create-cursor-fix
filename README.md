@@ -11,7 +11,7 @@ I do not intend to support other versions unless asked, but its pretty easy to p
 
 - Minecraft 1.21.1
 - NeoForge 21.1.219 or newer
-- Create 6.0.10 or newer
+- Create 6.0.9 or newer
 
 ## What It Fixes
 
